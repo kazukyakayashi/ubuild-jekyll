@@ -9,7 +9,7 @@ page_sections:
   navigation:
   - link: "/"
     link_text: Home
-  - link: "/post/"
+  - link: "/posts/"
     link_text: Discover
   - link: "#swap"
     link_text: View All
