@@ -17,7 +17,7 @@ page_sections:
 - template: full-width-media-element
   block: media-1
   slug: ''
-  image: "/uploads/2022/05/03/040-web_sa71608.jpg"
+  image: "/uploads/2022/05/03/047-websa701702.jpg"
   caption: ''
 - template: simple-footer
   block: footer-1
